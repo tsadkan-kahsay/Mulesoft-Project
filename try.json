@@ -1,0 +1,16 @@
+[
+{"id": 1,
+"fname": "Abebe",
+ "lname": "Kebede",
+ "age": 30
+ },
+ {"id": 2,
+ "fname": "kaleb",
+ "lname": "kahsay",
+ "age": 35
+ },
+ {"id": 3,
+ "fname": "thomas",
+ "lname": "mathew",
+ "age": 27}
+ ]
